@@ -9,7 +9,7 @@ body {
   font-family: sans-serif;
 }
 
-.torus {
+.coin__canvas {
   position: fixed;
   top: 0;
   left: 0;
